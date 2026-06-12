@@ -14,6 +14,9 @@ Interactive audio application for gesture-controlled sound synthesis built with 
 Audioreactive generative art installation combining AI-generated visuals with OSC/MIDI-based audio communication.  
 **Contribution:** development of the audio communication layer and OSC/MIDI integration.
 
+### Other collaborative projects
+- **MAE-Capstone** — scalable GUI for 3D audio control and MIDI-based interaction across different hardware setups  
+- **DreamLink** — Flutter mobile application with Spotify integration and audio-focused features
 
 ## Tech
 C++ · JUCE · Flutter · Dart · Processing · SuperCollider · MIDI · OSC
